@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+body {
+  background-image: url("../img/crinkle.jpg");
+}
+
 /* Add Name Input */
 input {
   padding: 5px;
@@ -14,7 +18,7 @@ input[type='text'] {
 }
 
 .name-tag {
-  background-color: red;
+  background-color: rgb(60, 106, 105);
   padding: 10px 0 20px;
   border-radius: 20px;
   width: 350px;
