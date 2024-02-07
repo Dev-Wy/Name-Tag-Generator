@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e1a3be56.css",
-    "main.js": "/react-gh-pages/static/js/main.d8b75b72.js",
-    "static/media/crinkle.jpg": "/react-gh-pages/static/media/crinkle.b915d50dac965ce4dec5.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e1a3be56.css.map": "/react-gh-pages/static/css/main.e1a3be56.css.map",
-    "main.d8b75b72.js.map": "/react-gh-pages/static/js/main.d8b75b72.js.map"
+    "main.css": "/Name-Tag-Generator/static/css/main.ff63b899.css",
+    "main.js": "/Name-Tag-Generator/static/js/main.d8b75b72.js",
+    "static/media/crinkle.jpg": "/Name-Tag-Generator/static/media/crinkle.b915d50dac965ce4dec5.jpg",
+    "index.html": "/Name-Tag-Generator/index.html",
+    "main.ff63b899.css.map": "/Name-Tag-Generator/static/css/main.ff63b899.css.map",
+    "main.d8b75b72.js.map": "/Name-Tag-Generator/static/js/main.d8b75b72.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1a3be56.css",
+    "static/css/main.ff63b899.css",
     "static/js/main.d8b75b72.js"
   ]
 }
