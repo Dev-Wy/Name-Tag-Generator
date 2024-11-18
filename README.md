@@ -15,7 +15,7 @@
 - This is name tag generator to create bulk name tags using functional components and ES6 modules. Each name can be added, deleted, and stored.
 
 ### Screenshot
-![](img/Screenshot.png)
+![](img/screenshot.png)
 
 ### Links
 - Solution URL:
